@@ -1,4 +1,4 @@
-# Azure + Pulumia
+# Azure + Pulumi
 
 ![Build](https://img.shields.io/docker/cloud/build/scottam/az-pulumi)
 ![Docker Pulls](https://img.shields.io/docker/pulls/scottam/az-pulumi)
