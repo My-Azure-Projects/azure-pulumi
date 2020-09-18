@@ -12,3 +12,4 @@ RUN apk update && \
     curl -fsSL https://get.pulumi.com | bash -s -- --version $PULUMI_VERSION && \
     mv ~/.pulumi/bin/* /usr/bin
 
+
