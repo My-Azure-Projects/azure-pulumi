@@ -3,6 +3,7 @@ FROM mcr.microsoft.com/azure-cli:latest
 LABEL maintainer="Scott Murray <scottam.coder@gmail.com>"
 
 ENV PULUMI_VERSION=2.7.0
+
 #Install Pulumi
 RUN apk update && \
     apk add --update jq nodejs npm g++ && \
